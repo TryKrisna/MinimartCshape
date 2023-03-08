@@ -1,0 +1,36 @@
+D:\Prog lan\C#\Minimart Management\Minimart Management\bin\Debug\Minimart Management.exe.config
+D:\Prog lan\C#\Minimart Management\Minimart Management\bin\Debug\Minimart Management.exe
+D:\Prog lan\C#\Minimart Management\Minimart Management\bin\Debug\Minimart Management.pdb
+D:\Prog lan\C#\Minimart Management\Minimart Management\bin\Debug\Guna.UI2.dll
+D:\Prog lan\C#\Minimart Management\Minimart Management\obj\Debug\Minimart Management.csproj.AssemblyReference.cache
+D:\Prog lan\C#\Minimart Management\Minimart Management\obj\Debug\Minimart Management.csproj.SuggestedBindingRedirects.cache
+D:\Prog lan\C#\Minimart Management\Minimart Management\obj\Debug\Minimart_Management.LoginForm.resources
+D:\Prog lan\C#\Minimart Management\Minimart Management\obj\Debug\Minimart_Management.Properties.Resources.resources
+D:\Prog lan\C#\Minimart Management\Minimart Management\obj\Debug\Minimart Management.csproj.GenerateResource.cache
+D:\Prog lan\C#\Minimart Management\Minimart Management\obj\Debug\Minimart Management.csproj.CoreCompileInputs.cache
+D:\Prog lan\C#\Minimart Management\Minimart Management\obj\Debug\Minimart Management.csproj.CopyComplete
+D:\Prog lan\C#\Minimart Management\Minimart Management\obj\Debug\Minimart Management.exe
+D:\Prog lan\C#\Minimart Management\Minimart Management\obj\Debug\Minimart Management.pdb
+D:\Prog lan\C#\Minimart Management\Minimart Management\obj\Debug\Minimart_Management.SplashForm.resources
+D:\Prog lan\C#\Minimart Management\Minimart Management\obj\Debug\Minimart_Management.ProductForm.resources
+D:\Prog lan\C#\Minimart Management\Minimart Management\obj\Debug\Minimart_Management.CategoryForm.resources
+D:\Prog lan\C#\Minimart Management\Minimart Management\obj\Debug\Minimart_Management.SellerForm.resources
+D:\Prog lan\C#\Minimart Management\Minimart Management\obj\Debug\Minimart_Management.SellingForm.resources
+C:\00001_RUPP_Web_delopement\OOAD\Minimart Management\Minimart Management\Minimart Management\bin\Debug\Minimart Management.exe.config
+C:\00001_RUPP_Web_delopement\OOAD\Minimart Management\Minimart Management\Minimart Management\bin\Debug\Minimart Management.exe
+C:\00001_RUPP_Web_delopement\OOAD\Minimart Management\Minimart Management\Minimart Management\bin\Debug\Minimart Management.pdb
+C:\00001_RUPP_Web_delopement\OOAD\Minimart Management\Minimart Management\Minimart Management\bin\Debug\Guna.UI2.dll
+C:\00001_RUPP_Web_delopement\OOAD\Minimart Management\Minimart Management\Minimart Management\obj\Debug\Minimart Management.csproj.AssemblyReference.cache
+C:\00001_RUPP_Web_delopement\OOAD\Minimart Management\Minimart Management\Minimart Management\obj\Debug\Minimart Management.csproj.SuggestedBindingRedirects.cache
+C:\00001_RUPP_Web_delopement\OOAD\Minimart Management\Minimart Management\Minimart Management\obj\Debug\Minimart_Management.CategoryForm.resources
+C:\00001_RUPP_Web_delopement\OOAD\Minimart Management\Minimart Management\Minimart Management\obj\Debug\Minimart_Management.LoginForm.resources
+C:\00001_RUPP_Web_delopement\OOAD\Minimart Management\Minimart Management\Minimart Management\obj\Debug\Minimart_Management.ProductForm.resources
+C:\00001_RUPP_Web_delopement\OOAD\Minimart Management\Minimart Management\Minimart Management\obj\Debug\Minimart_Management.Properties.Resources.resources
+C:\00001_RUPP_Web_delopement\OOAD\Minimart Management\Minimart Management\Minimart Management\obj\Debug\Minimart_Management.SellerForm.resources
+C:\00001_RUPP_Web_delopement\OOAD\Minimart Management\Minimart Management\Minimart Management\obj\Debug\Minimart_Management.SellingForm.resources
+C:\00001_RUPP_Web_delopement\OOAD\Minimart Management\Minimart Management\Minimart Management\obj\Debug\Minimart_Management.SplashForm.resources
+C:\00001_RUPP_Web_delopement\OOAD\Minimart Management\Minimart Management\Minimart Management\obj\Debug\Minimart Management.csproj.GenerateResource.cache
+C:\00001_RUPP_Web_delopement\OOAD\Minimart Management\Minimart Management\Minimart Management\obj\Debug\Minimart Management.csproj.CoreCompileInputs.cache
+C:\00001_RUPP_Web_delopement\OOAD\Minimart Management\Minimart Management\Minimart Management\obj\Debug\Minimart Management.csproj.CopyComplete
+C:\00001_RUPP_Web_delopement\OOAD\Minimart Management\Minimart Management\Minimart Management\obj\Debug\Minimart Management.exe
+C:\00001_RUPP_Web_delopement\OOAD\Minimart Management\Minimart Management\Minimart Management\obj\Debug\Minimart Management.pdb
